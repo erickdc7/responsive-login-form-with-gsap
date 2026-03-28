@@ -17,8 +17,8 @@
   /*.5rem = 8px | 1rem = 16px ...*/
   --body-font: "Syne", sans-serif;
   --big-font-size: 1.5rem;
-  --normal-font-size: .938rem;
-  --small-font-size: .813rem;
+  --normal-font-size: 0.938rem;
+  --small-font-size: 0.813rem;
 }
 
 /*========== Responsive typography ==========*/
@@ -26,7 +26,7 @@
   :root {
     --big-font-size: 2.25rem;
     --normal-font-size: 1rem;
-    --small-font-size: .875rem;
+    --small-font-size: 0.875rem;
   }
 }
 
@@ -72,9 +72,7 @@ img {
 
 /*=============== LOGIN ===============*/
 
-
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
-
 
 /* For large devices <> */
