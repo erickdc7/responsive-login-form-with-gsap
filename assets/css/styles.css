@@ -96,6 +96,12 @@ img {
   margin-bottom: 3rem;
 }
 
+.login__group {
+  display: grid;
+  row-gap: 1rem;
+  margin-bottom: 1rem;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
