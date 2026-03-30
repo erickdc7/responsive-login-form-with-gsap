@@ -119,6 +119,12 @@ img {
   font-weight: initial;
 }
 
+.login__label {
+  position: absolute;
+  left: 3.25rem;
+  transition: opacity 0.4s;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
