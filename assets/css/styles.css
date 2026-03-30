@@ -89,6 +89,13 @@ img {
   background-color: var(--container-color);
 }
 
+.login__title {
+  font-size: var(--big-font-size);
+  color: var(--title-color);
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
