@@ -112,6 +112,13 @@ img {
   align-items: center;
 }
 
+.login__icon {
+  position: absolute;
+  left: 1.25rem;
+  font-size: 1.5rem;
+  font-weight: initial;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
