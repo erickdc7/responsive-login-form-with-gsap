@@ -78,6 +78,10 @@ img {
   margin-inline: 1rem;
 }
 
+.login__img {
+  display: none;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
