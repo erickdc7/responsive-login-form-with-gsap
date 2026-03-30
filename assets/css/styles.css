@@ -71,6 +71,12 @@ img {
 }
 
 /*=============== LOGIN ===============*/
+.login {
+  height: 100vh;
+  display: grid;
+  align-items: center;
+  margin-inline: 1rem;
+}
 
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
