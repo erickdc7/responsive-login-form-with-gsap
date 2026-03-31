@@ -198,3 +198,8 @@ img {
 }
 
 /* For large devices <> */
+@media (width >= 1150px) {
+  .login {
+    grid-template-columns: initial;
+  }
+}
