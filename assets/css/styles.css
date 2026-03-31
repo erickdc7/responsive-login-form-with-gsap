@@ -125,6 +125,16 @@ img {
   transition: opacity 0.4s;
 }
 
+.login__input {
+  width: 100%;
+  height: 100%;
+  margin-left: 3.25rem;
+  font-weight: 600;
+  z-index: 2;
+  background: transparent;
+  color: var(--title-color);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
