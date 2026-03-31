@@ -170,6 +170,11 @@ img {
   transition: background-color 0.4s;
 }
 
+.login__button i {
+  font-weight: initial;
+  font-size: 1.5rem;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
