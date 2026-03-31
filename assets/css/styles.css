@@ -179,6 +179,11 @@ img {
   background-color: var(--first-color-alt);
 }
 
+.login__sign {
+  text-align: center;
+  font-size: var(--small-font-size);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
