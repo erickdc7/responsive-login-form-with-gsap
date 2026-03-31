@@ -146,6 +146,14 @@ img {
     color 6000s;
 }
 
+.login__forgot {
+  display: block;
+  width: max-content;
+  margin: 0 0 3rem auto;
+  color: var(--title-color);
+  font-size: var(--small-font-size);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
