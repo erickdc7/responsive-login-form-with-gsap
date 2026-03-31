@@ -184,6 +184,10 @@ img {
   font-size: var(--small-font-size);
 }
 
+.login__sign a {
+  color: var(--title-color);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
