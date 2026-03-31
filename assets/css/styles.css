@@ -135,6 +135,11 @@ img {
   color: var(--title-color);
 }
 
+.login__input:focus + .login__label,
+.login__input:not(:placeholder-shown) + .login__label {
+  opacity: 0;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
