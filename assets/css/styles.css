@@ -190,5 +190,11 @@ img {
 
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
+@media (width >= 540px) {
+  .login {
+    grid-template-columns: 400px;
+    justify-content: center;
+  }
+}
 
 /* For large devices <> */
