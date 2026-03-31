@@ -140,6 +140,12 @@ img {
   opacity: 0;
 }
 
+.login__input:autofill {
+  transition:
+    background-color 6000s,
+    color 6000s;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices <> */
 
