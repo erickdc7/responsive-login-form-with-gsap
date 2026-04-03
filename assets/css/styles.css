@@ -207,4 +207,10 @@ img {
     overflow: hidden;
     border-radius: 3rem;
   }
+
+  .login__img {
+    display: block;
+    width: 480px;
+    border-radius: 3rem;
+  }
 }
