@@ -202,4 +202,9 @@ img {
   .login {
     grid-template-columns: initial;
   }
+
+  .login__image {
+    overflow: hidden;
+    border-radius: 3rem;
+  }
 }
