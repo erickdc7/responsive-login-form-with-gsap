@@ -1,5 +1,5 @@
 /*=============== GSAP ANIMATION ===============*/
-
+const tl = gsap.timeline({})
 
 /* Animate form in the center */
 
