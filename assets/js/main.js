@@ -2,7 +2,23 @@
 const tl = gsap.timeline({})
 
 /* Animate form in the center */
-
+tl.fromTo(
+    '.login__content',
+    {
+        y: -800,
+        scaleX: .2,
+        scaleY: .5,
+        opacity: 0
+    },
+    {
+        y: 0,
+        scaleX: .2,
+        scaleY: .5,
+        opacity: 1,
+        duration: 1.5,
+        ease: 'power3.out'
+    }
+)
 
 /* Expand vertically */
 
