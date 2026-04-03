@@ -41,6 +41,16 @@ tl.to(
 )
 
 /* Animate background image */
-
+tl.to(
+    '.login__img',
+    {
+        scale: 1.08,
+        duration: 5,
+        ease: 'power1.inOut',
+        repeat: -1,
+        yoyo: true,
+        transformOrigin: 'center center'
+    }
+)
 
 /* Animate form */
