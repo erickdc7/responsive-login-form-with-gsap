@@ -213,4 +213,14 @@ img {
     width: 480px;
     border-radius: 3rem;
   }
+
+  .login__content {
+    display: grid;
+    grid-template-columns: 360px 480px;
+    column-gap: 7rem;
+    align-items: center;
+    padding: 1.5rem 1.5rem 1.5rem 7rem;
+    border-radius: 4rem;
+    overflow: hidden;
+  }
 }
