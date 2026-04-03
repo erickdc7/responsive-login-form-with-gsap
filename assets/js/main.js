@@ -31,7 +31,14 @@ tl.to(
 )
 
 /* Expand horizontally */
-
+tl.to(
+    '.login__content',
+    {
+        scaleX: 1,
+        duration: .7,
+        ease: 'power3.out'
+    }, '-=0.2'
+)
 
 /* Animate background image */
 
