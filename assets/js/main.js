@@ -21,7 +21,14 @@ tl.fromTo(
 )
 
 /* Expand vertically */
-
+tl.to(
+    '.login__content',
+    {
+        scaleY: 1,
+        duration: .6,
+        ease: 'power3.out'
+    }, '-=0.3'
+)
 
 /* Expand horizontally */
 
