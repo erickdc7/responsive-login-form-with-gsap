@@ -56,3 +56,4 @@ tl.to(
 /* Animate form */
 gsap.defaults({ opacity: 0, y: -60, ease: 'power2.out', duration: 1.2 })
 gsap.from('.login__title', { delay: 2.5 })
+gsap.from('.login__form > *', { delay: 2.7, stagger: .2 })
