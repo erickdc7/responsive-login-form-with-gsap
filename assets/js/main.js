@@ -54,3 +54,4 @@ tl.to(
 )
 
 /* Animate form */
+gsap.defaults({ opacity: 0, y: -60, ease: 'power2.out', duration: 1.2 })
